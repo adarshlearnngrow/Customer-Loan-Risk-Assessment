@@ -4,6 +4,7 @@ This is the first version of the Customer Loan Risk Assessment project, where I 
 
 Due to the file size limitation on GitHub (maximum upload size of 25 MB), I couldn't upload the Excel file here, as it is approximately 100 MB. However, you can access the file through the following link:
 
-Download Excel File
+Download Excel File:
+https://1drv.ms/x/s!Avt5tlfjTHmtzHDwydvEGB6zZOld?e=fFMvnG
 
 Feel free to explore the analysis!
